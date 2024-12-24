@@ -34,6 +34,23 @@
       "parentUuid": "bbb75163_92ed8a57",
       "revId": "cc5ef786d0d57ddb5dfa5aa75651a376ebb1cc8e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f8419df8_300c865a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32361
+      },
+      "writtenOn": "2024-12-24T18:43:15Z",
+      "side": 1,
+      "message": "I am also facing similar issue for our product which is based on AOSP\n\nwhat solution you recommend ? yours or luk\u0027s\n\nas luk solution seems to be working on oneplus phones , will it work on our custom rom device  which is MTK based",
+      "revId": "cc5ef786d0d57ddb5dfa5aa75651a376ebb1cc8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
