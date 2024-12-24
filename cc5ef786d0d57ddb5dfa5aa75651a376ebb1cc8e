@@ -16,6 +16,24 @@
       "message": "luk used the idea in a more complete way for 19.1.\n\nmay i know that patch please ???",
       "revId": "cc5ef786d0d57ddb5dfa5aa75651a376ebb1cc8e",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "887d1f14_5e3d9a07",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 31286
+      },
+      "writtenOn": "2024-12-24T18:22:12Z",
+      "side": 1,
+      "message": "https://review.lineageos.org/c/LineageOS/android_device_oneplus_sm8150-common/+/340796 (use the search next time)",
+      "parentUuid": "bbb75163_92ed8a57",
+      "revId": "cc5ef786d0d57ddb5dfa5aa75651a376ebb1cc8e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
