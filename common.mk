@@ -286,7 +286,8 @@ PRODUCT_COPY_FILES += \
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
-    hardware/oplus
+    hardware/oplus \
+    hardware/qcom-caf/bootctrl
 
 # Telephony
 PRODUCT_PACKAGES += \
