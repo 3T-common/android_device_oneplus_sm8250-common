@@ -52,6 +52,24 @@
       "parentUuid": "39f21d9a_63fb707c",
       "revId": "a72e56d881c9c146ae67c2c75259595eade4643c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "6b1f74dd_a934dd28",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-04-12T18:50:00Z",
+      "side": 1,
+      "message": "I don\u0027t really care about that.",
+      "parentUuid": "2c0600b9_6664fc23",
+      "revId": "a72e56d881c9c146ae67c2c75259595eade4643c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
