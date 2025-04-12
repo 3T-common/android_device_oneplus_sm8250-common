@@ -88,6 +88,24 @@
       "parentUuid": "6b1f74dd_a934dd28",
       "revId": "a72e56d881c9c146ae67c2c75259595eade4643c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c0ef29eb_1ee6d544",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2025-04-12T18:53:37Z",
+      "side": 1,
+      "message": "looks like pixels put it in product.prop unless the device is 64-bit only, so with that I\u0027ll just leave it here.",
+      "parentUuid": "b87f221a_a58d9dfd",
+      "revId": "a72e56d881c9c146ae67c2c75259595eade4643c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
