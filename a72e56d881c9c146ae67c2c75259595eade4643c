@@ -34,6 +34,24 @@
       "parentUuid": "d7a28dab_5e211c26",
       "revId": "a72e56d881c9c146ae67c2c75259595eade4643c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c0600b9_6664fc23",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 34207
+      },
+      "writtenOn": "2025-04-12T18:48:44Z",
+      "side": 1,
+      "message": "but that shouldn\u0027t stop us from enabling it for gsis too, shouldn\u0027t it?",
+      "parentUuid": "39f21d9a_63fb707c",
+      "revId": "a72e56d881c9c146ae67c2c75259595eade4643c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
